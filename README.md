@@ -1,1 +1,1 @@
-# jfsd
+An art gallery website serves as a digital platform where art enthusiasts, collectors, and the general public can explore, engage with, and potentially purchase artwork from the comfort of their own space.
